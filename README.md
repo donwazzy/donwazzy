@@ -7,4 +7,4 @@
 3. Dinner - Fruit salad
 
 ### Here a picture of my favorite breakfast
-![image of my favourite breakfast](dr.jpg)
+![image of my favourite breakfast](dr.JPG)
