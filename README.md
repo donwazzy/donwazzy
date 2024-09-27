@@ -5,3 +5,6 @@
 1. Breakfast - pancake and fruits
 2. Lunch - Nigeran jollof rice
 3. Dinner - Fruit salad
+
+### Here a picture of my favorite breakfast
+![image of my favourite breakfast](dr.jpg)
