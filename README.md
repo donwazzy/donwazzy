@@ -1,4 +1,5 @@
 ##  Hello, world! 👋
+### I am currently a student at SAIT, studying UX designer. I really love coding and i have a little knowledge in HTML, CSS and Js
 
 <!--
 **donwazzy/donwazzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
